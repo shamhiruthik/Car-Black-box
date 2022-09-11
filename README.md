@@ -2,7 +2,7 @@
 
 ## What is Car Black Box ?
 
-A 'black box' is either physically installed in the car
+A `black box` is either physically installed in the car
 or downloaded as a smartphone app. It links to a
 GPS device that measures and records vehicle speed, location, distance traveled, driving
 frequency, and time of day the car is in motion.
@@ -11,7 +11,7 @@ Accident data recorder (ADR)
 
 ## What I've done ?
 
-I have created an simulation in 'PICSimlab' which runs my simulation. This black box will record all the activity of the car and it is included with 'SOS' features.
+I have created an simulation in `PICSimlab` which runs my simulation. This black box will record all the activity of the car and it is included with `SOS` features.
 
 ## Requirements
 
