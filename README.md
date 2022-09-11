@@ -9,8 +9,9 @@ frequency, and time of day the car is in motion.
 Also known as an event data recorder (EDR) or
 Accident data recorder (ADR)
 
-## What i've done ?
+## What I've done ?
 
+I have created an simulation in 'PICSimlab' which runs my simulation. This black box will record all the activity of the car and it is included with 'SOS' features.
 
 ## Requirements
 
